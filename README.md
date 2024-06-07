@@ -16,10 +16,6 @@ Este projeto foi desenvolvido para medir os níveis de dióxido de carbono (CO2)
 
 ![Circuito do Projeto](image.png)
 
-## Vídeo
-
-![Video do Projeto](Video.mp4)
-
 ## Montagem
 
 1. **Sensor de CO2**: Conecte o pino de saída do sensor de CO2 ao pino A2 do Arduino.
